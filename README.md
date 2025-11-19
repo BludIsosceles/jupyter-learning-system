@@ -322,7 +322,7 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 ## Support & Questions
 
-- 📧 Email: support@jupyterlearning.com
+- 📧 Email: support@proiso.org
 - 💬 Discord: [Join Community](https://discord.gg/)
 - 📖 Documentation: [Read Docs](https://jupyter-learning-system.readthedocs.io/)
 - 🐛 Issues: [GitHub Issues](https://github.com/yourusername/jupyter-learning-system/issues)
